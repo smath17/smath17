@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon Mathiasen</h1>
-<h3 align="center">A passionate student specializing in Database and Web technologies at AAU</h3>
+<h3 align="center"> MSc in Computer Science as of 2023</h3>
+<h3 align="center">"What's the point of programming if you don't create dumb stuff?"</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smath17" alt="smath17" /></a> </p>
 
